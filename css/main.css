@@ -53,6 +53,10 @@ body {
     width: 80vw;
 }
 
+#Prototype {
+    width: 50vw;
+}
+
 /* Navigation */
 
 nav ul {
